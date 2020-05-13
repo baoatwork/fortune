@@ -1,0 +1,126 @@
+[
+    [
+        {
+            "seq": 1,
+            "content": "终于看到人了！你好你好，我叫余。",
+            "translation": "终于看到人了！你好你好，我叫余。",
+            "english": "Finally! A live human being! Hi, my name is Yu."
+        },
+        {
+            "seq": 2,
+            "content": "你的梦也太好看了吧，我回去要好好记录一下。",
+            "translation": "你的梦也太好看了吧，我回去要好好记录一下。",
+            "english": "Your dream looks so amazing! I'm gonna record this into my journal."
+        },
+        {
+            "seq": 3,
+            "content": "我是一个梦境旅者，会在不同人的梦里穿梭。",
+            "translation": "我是一个梦境旅者，可以在不同人的梦里穿梭。",
+            "english": "I am a dream traveler. That's why I am taking adventure in different dreams."
+        },
+        {
+            "seq": 4,
+            "content": "啊~ 诶？ 你没听过这个调子吗？我还以为大家都会唱呢。",
+            "translation": "啊~ 诶？ 你没听过这个调子吗？我还以为大家都会唱呢。",
+            "english": "Ah~~ Eh? You haven't heard this tune? I thought everyone knows it... "
+        },
+        {
+            "seq": 5,
+            "content": "从小我就不爱学传统法术，不过不然你也不会在这里见到我啦！",
+            "translation": "从小我就不爱学传统法术。 不过不然你也不会在这见到我啦！",
+            "english": "I don't like study the traditional spells. If I did, you won't be able to see me here."
+        },
+        {
+            "seq": 6,
+            "content": "别一脸紧张的样子，放轻松点！",
+            "translation": "别一脸紧张的样子，放轻松点！",
+            "english": "Don't make that face. Take it easy!"
+        },
+        {
+            "seq": 7,
+            "content": "恭喜恭喜！",
+            "translation": "恭喜恭喜！",
+            "english": "Congratulations!"
+        },
+        {
+            "seq": 8,
+            "content": "额，别太沮丧了，有句话怎么说的来着？哦对，不以物喜，不以己悲！",
+            "translation": "额，别太沮丧了，有句话怎么说的来着？哦对，不以物喜，不以己悲！",
+            "english": "Em... Don't be depressed. What does the common say? Right, \"Stable your feeling\"."
+        },
+        {
+            "seq": 9,
+            "content": "感觉我们很有缘分啊，不过我可能呆不了太久，真是可惜。",
+            "translation": "感觉我们很有缘分啊，不过我在这呆不了太久，真是可惜。",
+            "english": "We have so much in common! It's such a pity that I can't stay here for too long."
+        },
+        {
+            "seq": 10,
+            "content": "我有强烈的预感，我们很快就会在梦境外再见了。",
+            "translation": "我有强烈的预感，我们很快就会在梦境外再见了。",
+            "english": "I have a strong feeling that we will meet in reality soon."
+        }
+    ],
+    [
+        {
+            "seq": 1,
+            "content": "初次见面，你好，我的名字是风。",
+            "translation": "初めまして、こんにちは、私の名前は風です。",
+            "english": "Nice to meet you. My name is Kaze."
+        },
+        {
+            "seq": 2,
+            "content": "你不知道这里是哪里？这不是你的梦里吗？",
+            "translation": "ここがどこか知らないの? あなたの夢のなかじゃない?",
+            "english": "You don't know what place this is? Isn't this your dream?"
+        },
+        {
+            "seq": 3,
+            "content": "我是谁？就像我的名字，我是风的使者。",
+            "translation": "私は誰? 名前の通り、私は風の使者です。",
+            "english": "Who am I? As my name says, I am the messenger of the wind."
+        },
+        {
+            "seq": 4,
+            "content": "未来。。有多少种可能呢？",
+            "translation": "未来の可能性は。。どのくらいあるんでしょう",
+            "english": "The future... Do we have a choice to make things possible?"
+        },
+        {
+            "seq": 5,
+            "content": "也许某天，我也要做出选择。",
+            "translation": "私もいつか、選択しなければいけません。",
+            "english": "Maybe someday, I need to make my own choice..."
+        },
+        {
+            "seq": 6,
+            "content": "远方刮来的风，会给我们指引。",
+            "translation": "遠くから吹いてくる風が,私たちを導いてくれる。",
+            "english": "The wind in the distance will guide us."
+        },
+        {
+            "seq": 7,
+            "content": "兰大人会祝福你。",
+            "translation": "兰大人はあなたを祝福します。",
+            "english": "Master Lan will bless you."
+        },
+        {
+            "seq": 8,
+            "content": "预知，未必是好事，可也未必是一件坏事。",
+            "translation": "予知は,必ずしもよいことではないが,必ずしも悪いことではないかもしれません。",
+            "english": "Knowing the future, could be a gift and a curse."
+        },
+        {
+            "seq": 9,
+            "content": "其实，一张牌又怎么能决定一个人的命运呢？",
+            "translation": "実際、一枚のカードでどうやって人の運命を決めるのでしょう？",
+            "english": "In fact, how could a card determine your destiny?"
+        },
+        {
+            "seq": 10,
+            "content": "很快我们就会再见的。",
+            "translation": "またすぐに会えます。",
+            "english": "We are going to meet again soon."
+        }
+    ]
+]
