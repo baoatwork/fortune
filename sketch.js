@@ -32,6 +32,9 @@ let currentSize;
 //pattern
 let patternChange;
 let patternLight;
+//
+let withSound;
+
 
 // set the canvas at the center of the page
 function centerCanvas() {
@@ -88,6 +91,9 @@ function preload(){
     pattern = loadImage("resource/pic/pattern.png");
     arrow = loadImage("resource/pic/arrow.png");
     globe = loadImage("resource/pic/whiteglobe.png");
+    book = loadImage("resource/pic/whitebook.png");
+    yesSound = loadImage("resource/pic/whitesound.png");
+    noSound = loadImage("resource/pic/whitenosound.png");
 
     //button sound
     click = loadSound("resource/sound/click.wav");
@@ -124,12 +130,16 @@ function setup() {
     patternLight =200;
     patternChange =0.4;
 
+    withSound = true;
+    bgOp = 255;
 }
 
 function draw(){
+    
     image(starsky,0,0,bgX,bgY);
-
+    
     checkBg();
+
     if(gameMode == 1){
         starColor.setAlpha(128 + 128 * sin(millis() / 1000));
     }else if(gameMode == 2){
@@ -145,18 +155,25 @@ function draw(){
         }
         
         
+    }else if(gameMode == 3){
+        
+        fill(220,220,220,200);
+        rect(0,0,1200,600);
+
+        fill(0, 0, 0, 200);
+        rect(0,50,1200,500);
     }
     
 }
 
 function talked(){
     if(currentCharacter == 0){
-        currentVol = 3;
+        currentVol = 2.5;
         currentSize = 22;
         currentFont = chFont;
         return talkedYu;
     }else if(currentCharacter == 1){
-        currentVol = 10;
+        currentVol = 9;
         currentSize = 18;
         currentFont = jpFont;
         return talkedKaze;
@@ -227,6 +244,38 @@ function mousePressed(){
             click.play();
             window.open("https://github.com/baoatwork/fortune");
         }
+
+        if(mouseInRect(960,1030,440,510)){
+            click.play();
+            if(withSound){
+                withSound = false;
+                welcomeBgm.setVolume(0);
+                menuBgm.setVolume(0);
+                mainBgm.setVolume(0);
+                click.setVolume(0);
+            }else{
+                withSound = true;
+                welcomeBgm.setVolume(1);
+                menuBgm.setVolume(1);
+                mainBgm.setVolume(1);
+                click.setVolume(1);
+            }
+        }
+
+        if(mouseInRect(1020,1080,200,260)){
+            click.play();
+            gameMode = 3;
+            
+        }
+    }else if(gameMode == 3){
+        
+
+        if(mouseInRect(0,1200,50,550)){
+            click.play();
+            gameMode = 2;
+            
+        }
+        
     }
     
     
@@ -321,6 +370,7 @@ function menu(){
         image(arrow,610,200,70,70);
     }
     
+
     if(mouseInRect(660,720,440,500)){
         textFont(enFont);
         textSize(35);
@@ -329,5 +379,29 @@ function menu(){
         tint(255,240);
         image(globe,660,440,60,60);
     }
+
+    if(mouseInRect(1020,1080,200,260)){
+        textFont(enFont);
+        textSize(35);
+        text("Story",1020,245);
+    }else{
+        tint(255,240);
+        image(book,1020,200,60,60);
+    }
+
+    if(mouseInRect(960,1030,440,510)){
+        textFont(enFont);
+        textSize(35);
+        if(withSound){
+            text("Sound: On",920,485);
+        }else{
+            text("Sound: Off",920,485);
+        }
+
+    }else{
+        tint(255,240);
+        image(yesSound,960,440,70,70);
+    }
+    
     
 }
