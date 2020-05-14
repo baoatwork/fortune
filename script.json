@@ -3,7 +3,7 @@
         {
             "seq": 1,
             "content": "终于看到人了！你好你好，我叫余。",
-            "translation": "终于看到人了！你好你好，我叫余。",
+            "translation": "终于看到人了！你好你好，我叫俞。",
             "english": "Finally! A live human being! Hi, my name is Yu."
         },
         {
@@ -26,7 +26,7 @@
         },
         {
             "seq": 5,
-            "content": "从小我就不爱学传统法术，不过不然你也不会在这里见到我啦！",
+            "content": "从小我就不爱学传统法术， 不过不然你也不会在这里见到我啦！",
             "translation": "从小我就不爱学传统法术。 不过不然你也不会在这见到我啦！",
             "english": "I don't like study the traditional spells. If I did, you won't be able to see me here."
         },
@@ -44,19 +44,19 @@
         },
         {
             "seq": 8,
-            "content": "额，别太沮丧了，有句话怎么说的来着？哦对，不以物喜，不以己悲！",
+            "content": "额，别太沮丧了，有句话怎么说的来着？ 哦对，不以物喜，不以己悲！",
             "translation": "额，别太沮丧了，有句话怎么说的来着？哦对，不以物喜，不以己悲！",
             "english": "Em... Don't be depressed. What does the common say? Right, \"Stable your feeling\"."
         },
         {
             "seq": 9,
-            "content": "感觉我们很有缘分啊，不过我可能呆不了太久，真是可惜。",
+            "content": "感觉我们很有缘分啊， 不过我可能呆不了太久，真是可惜。",
             "translation": "感觉我们很有缘分啊，不过我在这呆不了太久，真是可惜。",
             "english": "We have so much in common! It's such a pity that I can't stay here for too long."
         },
         {
             "seq": 10,
-            "content": "我有强烈的预感，我们很快就会在梦境外再见了。",
+            "content": "我有强烈的预感， 我们很快就会在梦境外再见了。",
             "translation": "我有强烈的预感，我们很快就会在梦境外再见了。",
             "english": "I have a strong feeling that we will meet in reality soon."
         }
@@ -101,19 +101,19 @@
         {
             "seq": 7,
             "content": "兰大人会祝福你。",
-            "translation": "兰大人はあなたを祝福します。",
+            "translation": "蘭大人はあなたを祝福します。",
             "english": "Master Lan will bless you."
         },
         {
             "seq": 8,
             "content": "预知，未必是好事，可也未必是一件坏事。",
-            "translation": "予知は,必ずしもよいことではないが,必ずしも悪いことではないかもしれません。",
+            "translation": "予知は,必ずしもよいことではないが, 必ずしも悪いことではないかもしれません。",
             "english": "Knowing the future, could be a gift and a curse."
         },
         {
             "seq": 9,
             "content": "其实，一张牌又怎么能决定一个人的命运呢？",
-            "translation": "実際、一枚のカードでどうやって人の運命を決めるのでしょう？",
+            "translation": "実際、一枚のカードでどうやって人の 運命を決めるのでしょう？",
             "english": "In fact, how could a card determine your destiny?"
         },
         {

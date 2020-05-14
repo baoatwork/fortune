@@ -1,0 +1,42 @@
+[
+    {
+        "seq": 0,
+        "name": "the Fool",
+        "position": "Upright",
+        "result": "good",
+        "love": "The Fool tarot meaning in love signals that you'll need to experience new things in order to find the romance that you desire. Be willing to take risks, and be bold and expand your vision of the world.",
+        "career": "If you’ve been looking to start a new career path, change jobs, get a promotion, or even start your own venture, the Fool can be a welcome card to begin your new journey. ",
+        "finance": "When it comes to finances, you may be in a period where you are feeling spontaneous and idealistic. All spending now can be for the purpose of adventure and exploration.",
+        "description": "The Fool is a card of new beginnings, opportunity and potential. Now is a time when you need to trust where the Universe is taking you.  It encourages you to have an open, curious mind and a sense of excitement."
+    },
+    {
+        "seq": 1,
+        "name": "the Fool",
+        "position": "Reversed",
+        "result": "bad",
+        "love": "This card can signal that your bright-eyed, trusting nature may need to be tempered with a dose of caution. It can also indicate that you or a lover may be a bit too immature right now to handle truly loving relationship.",
+        "career": "You may have all the energy in the world, and eagerness to do use that energy, however, you may not quite have the insight to do so without any consequences. It may be that there are more dangers than you see right now.   ",
+        "finance": "When it comes to your finances, the reversed Fool can suggest financial opportunities, but beware of recklessness. You’ll need to take a closer and more realistic look at your bank account. ",
+        "description": "The Fool reversed suggests that you have conceived of a new project but aren’t ready to ‘birth’ it into the world just yet. You may choose to keep this new opportunity to yourself for now, or wait until a better time."
+    },
+    {
+        "seq": 2,
+        "name": "the World",
+        "position": "Upright",
+        "result": "good",
+        "love": "The World tarot love meaning signals a feeling of completion and happiness. At times, this card can even suggest moving to the next step of your relationship, such as marriage or starting a family.",
+        "career": "Be proud of yourself, as you have done what you have set out to do when it comes to your career. It’s likely you’re already thinking about what comes next, as this is the normal cycle of things. For now, enjoy the moment. ",
+        "finance": "You may have worked hard in order to reach your financial goals, and now may be the time to enjoy the fruits of your labor. Now can be the time of thinking about other long term goals.",
+        "description": "The meaning of the World card is fulfillment, achievement, and completion. This shows that all the efforts that you have been putting in place are starting to pay off."
+    },
+    {
+        "seq": 3,
+        "name": "the World",
+        "position": "reversed",
+        "result": "bad",
+        "love": "The reversed World tarot love meaning signals a feeling of incompletion; a nearing to the end of one cycle, but not quite there.",
+        "career": "The reversed World signals nearing completion, but perhaps missing the final pieces that would make you truly feel fulfilled. Now is the time to reevaluate your goals and make the adjustments as necessary.  ",
+        "finance": "You may feel stagnant and unhappy with what you have. There is likely a reevaluation of your relationship to the material things that needs to be adjusted with the reversed World.",
+        "description": "The reversed World card suggests that you are seeking closure on a personal issue. You know, deep down, that to accept and embrace where you are now, you need to let go of the past and move on."
+    }
+]
