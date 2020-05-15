@@ -38,5 +38,45 @@
         "career": "The reversed World signals nearing completion, but perhaps missing the final pieces that would make you truly feel fulfilled. Now is the time to reevaluate your goals and make the adjustments as necessary.  ",
         "finance": "You may feel stagnant and unhappy with what you have. There is likely a reevaluation of your relationship to the material things that needs to be adjusted with the reversed World.",
         "description": "The reversed World card suggests that you are seeking closure on a personal issue. You know, deep down, that to accept and embrace where you are now, you need to let go of the past and move on."
+    },
+    {
+        "seq": 4,
+        "name": "the Hanged Man",
+        "position": "Upright",
+        "result": "bad",
+        "love": "The Hanged Man is about sacrifice, new perspectives and waiting for the right time. Instead of trying to force a relationship to come into fruition, use this time to see how your perspective changes when you’re alone.",
+        "career": "This card can signal a feeling of waiting or uncertainty about what you should be doing. The lesson is that sometimes, no matter what, you cannot force a decision, or changes to occur when things are not at the right time.",
+        "finance": "The Hanged Man can signal that a change in perspective is needed. If there has been some stress about money matters, you may find that at the moment a pause can actually bring you a new way of looking at things.",
+        "description": "The Hanged Man card reflects a particular need to suspend certain action. As a result, this might indicate a certain period of indecision."
+    },
+    {
+        "seq": 5,
+        "name": "the Hanged Man",
+        "position": "reversed",
+        "result": "bad",
+        "love": "Now is the time for action. The reversed Hanged Man tarot love meaning suggests that the period of waiting is over.",
+        "career": "When the Hanged Man is reversed, you may feel that the sacrifices you’ve been making in your career haven’t really been yielding results.",
+        "finance": "There is a sense of wasted sacrifice with this card; let these be a lesson for how to approach these situations in the future.",
+        "description": "The reversal meaning of the Hanged Man card represents a very specific period of time during which you feel as if you are sacrificing a significant amount of time while getting nothing in return."
+    },
+    {
+        "seq": 6,
+        "name": "the Lovers",
+        "position": "Upright",
+        "result": "good",
+        "love": "When it comes to love and relationships, the Lovers card can be a welcome sight to any seeker. The Lovers tarot card signals a wonderful cohesiveness and balance of forces, indicating complimentary energies.",
+        "career": "Sometimes, the Lovers can signal a business partnership, or a relationship with a colleague that is harmonious and beneficial to both parties. It can also suggest that there are big decisions that you need to make when it comes to your future career.",
+        "finance": "When it comes to finances, the Lovers card can suggest that big financial decisions need to be made. The important thing to remember is that it seems like you can’t have both.",
+        "description": "The primary meaning within the Lovers is harmony, attractiveness, and perfection in a relationship. You should be as true to yourself as you can be, so you will be genuine and authentic to the people who are around you."
+    },
+    {
+        "seq": 7,
+        "name": "the Lovers",
+        "position": "reversed",
+        "result": "bad",
+        "love": "The reversed Lovers in a relationship or romance tarot reading can suggest there is a coldness within your relationship. What was in balance is no longer working.",
+        "career": "You may have conflicts between your colleagues, or a business partner when the Lovers card is reversed. There are likely to be consequences that you did not foresee should you continue down this path. ",
+        "finance": "Your financial choices may be rather impulsive right now, meaning your long term financial security can be threatened. Make sure that you understand what you’re truly able to afford when it comes to your finances.",
+        "description": "The Lovers reversed can point to both inner and outer conflicts that you are dealing with. The disharmony can make daily life difficult and could be putting pressure on your relationships."
     }
 ]

@@ -131,6 +131,10 @@ function preload(){
     tarot002 = loadImage("resource/pic/tarot002.jpg");
     tarot003 = loadImage("resource/pic/tarot003.jpg");
     tarot004 = loadImage("resource/pic/tarot004.png");
+    tarot005 = loadImage("resource/pic/tarot005.jpg");
+    tarot006 = loadImage("resource/pic/tarot006.jpg");
+    tarot007 = loadImage("resource/pic/tarot007.jpg");
+    tarot008 = loadImage("resource/pic/tarot008.jpg");
 }
 
 
@@ -178,7 +182,7 @@ function setup() {
     procedure = 0;
     currentTarot =back;
     tarotLight = 0;
-    tarotArray = [tarot001,tarot002,tarot003,tarot004];
+    tarotArray = [tarot001,tarot002,tarot003,tarot004,tarot005,tarot006,tarot007,tarot008];
 
     backLight = 240;
     backChange = 3;
