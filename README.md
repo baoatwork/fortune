@@ -1,4 +1,4 @@
-# The Way Home
+# Fortune
 ![Image 1](screenshots/fortune001.png)
 
 [Link on Zeit](https://fortune.now.sh/)
