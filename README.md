@@ -28,7 +28,10 @@
 
    #### -For Sound Source-
    Background music from Sound of a Small Love & Chu-2 Byo Story
-
+   
+   #### -For Voices-
+   Yu: Sumner Feng
+   Kaze: Aki Wang
    
 
 ## Screenshots
